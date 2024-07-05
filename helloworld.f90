@@ -4,6 +4,6 @@ PROGRAM testing
 	
     ! hello world
     
-	PRINT *, "Hello, world!"
+    PRINT *, "Hello, world!"
 
 END PROGRAM testing
